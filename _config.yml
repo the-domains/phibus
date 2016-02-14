@@ -1,7 +1,7 @@
 name: phibus
 favicon: null
-layout_spectrum: 0.9136684299446642
-typography_spectrum: 0.531894744373858
+layout_spectrum: 1
+typography_spectrum: 0.401
 title: some animals
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4965975165832788
-  lightness: 0.4705812786705792
-  saturation: 0.06608085124753416
-  rhythmicContrast: 0.4385038123000413
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
