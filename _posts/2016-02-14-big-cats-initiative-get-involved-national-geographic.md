@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://animals.nationalgeographic.com'
-  name: National Geographic
-  favicon: 'http://images.nationalgeographic.com/wpf/sites/common/i/icons/favicon-cb1274471343.ico'
-  domain: animals.nationalgeographic.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - boma
   - cats
@@ -18,17 +16,21 @@ keywords:
   - protection
   - bush-meat
 description: 'Whether you have time, money, friends, or creativity, everyone can make a difference. Help National Geographic save big cats.'
-inLanguage: en
+datePublished: '2016-02-14T12:53:49.270Z'
+dateModified: '2016-02-14T12:53:45.435Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://animals.nationalgeographic.com/animals/big-cats-initiative/get-involved/'
 title: 'Big Cats Initiative, Get Involved -- National Geographic'
-datePublished: '2016-02-14T12:51:54.608Z'
-dateModified: '2016-02-14T12:50:32.978Z'
 sourcePath: _posts/2016-02-14-big-cats-initiative-get-involved-national-geographic.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: National Geographic
+  domain: animals.nationalgeographic.com
+  url: 'http://animals.nationalgeographic.com'
+  favicon: 'http://images.nationalgeographic.com/wpf/sites/common/i/icons/favicon-cb1274471343.ico'
+url: big-cats-initiative-get-involved-national-geographic/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
