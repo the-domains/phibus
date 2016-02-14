@@ -2,6 +2,7 @@ name: phibus
 favicon: null
 layout_spectrum: 0.9136684299446642
 typography_spectrum: 0.531894744373858
+title: some animals
 cta:
   domain: null
   bucket: null
